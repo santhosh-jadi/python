@@ -1,1 +1,1 @@
-pyinstaller
+# No external dependencies are required by calculator.py.
